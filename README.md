@@ -26,7 +26,7 @@ The code is private (it's a paid product), but here's what it looks like. The ap
   <img src="assets/portal.webp" width="280" alt="Consignor portal on a phone">
 </p>
 
-**Built with** Next.js, React, TypeScript, Supabase (Postgres), Tailwind CSS and Vercel.
+**Built with** Next.js, React, TypeScript, Supabase (Postgres), Tailwind CSS, Vercel and Claude Code.
 
 ### Contact
 
